@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/xyot/code/adventofcode_day1/build",
-  "command": "/usr/lib64/ccache/g++   -g -std=gnu++17 -o CMakeFiles/AOC1.dir/main.cpp.o -c /home/xyot/code/adventofcode_day1/main.cpp",
-  "file": "/home/xyot/code/adventofcode_day1/main.cpp",
-  "output": "CMakeFiles/AOC1.dir/main.cpp.o"
-}
-]

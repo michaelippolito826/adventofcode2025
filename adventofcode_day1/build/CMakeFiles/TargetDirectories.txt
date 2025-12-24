@@ -1,3 +1,0 @@
-/home/xyot/code/adventofcode_day1/build/CMakeFiles/AOC1.dir
-/home/xyot/code/adventofcode_day1/build/CMakeFiles/edit_cache.dir
-/home/xyot/code/adventofcode_day1/build/CMakeFiles/rebuild_cache.dir
